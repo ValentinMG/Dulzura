@@ -79,6 +79,7 @@
         android:layout_height="66dp"
         android:layout_marginTop="20dp"
         android:layout_marginEnd="80dp"
+        android:onClick="irFacebook"
         android:scaleType="fitCenter"
         app:layout_constraintBottom_toBottomOf="parent"
         app:layout_constraintEnd_toEndOf="parent"

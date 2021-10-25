@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Dulzura</string>
+    <string name="text_view_bienvenido">Bienvenido a dulzura</string>
+    <string name="text_hint_nombre">Usuario</string>
+    <string name="text_hint_contraseña">Contraseña</string>
+    <string name="btn_text_acceder">Iniciar sesión</string>
+    <string name="btn_text_registrarse">Registrarse</string>
+    <string name="btn_text_registrarse1">Registro</string>
+    <string name="btn_text_cancelar">Cancelar</string>
+    <string name="text_hint_email">Email</string>
+    <string name="text_hint_confirmar_contraseña">Confirmar contraseña</string>
+</resources>

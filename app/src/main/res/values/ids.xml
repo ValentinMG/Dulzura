@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="correo" type="id" />
+    <item name="contraseña" type="id" />
+    <item name="contraseñaConfirmacion" type="id" />
+</resources>

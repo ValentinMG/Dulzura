@@ -80,6 +80,7 @@
         android:layout_height="wrap_content"
         android:layout_marginStart="48dp"
         android:layout_marginTop="88dp"
+        android:onClick="registrarUsuario"
         android:text="@string/btn_text_registrarse"
         app:layout_constraintBottom_toBottomOf="parent"
         app:layout_constraintEnd_toStartOf="@+id/button4"

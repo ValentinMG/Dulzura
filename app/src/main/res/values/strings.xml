@@ -9,4 +9,20 @@
     <string name="btn_text_cancelar">Cancelar</string>
     <string name="text_hint_email">Email</string>
     <string name="text_hint_confirmar_contraseña">Confirmar contraseña</string>
+    <string name="text_view_carta">Carta Endulzante</string>
+    <string name="text_view_donas">Mini Donas</string>
+    <string name="text_view_precio1">6 unidades.... S/6.00</string>
+    <string name="text_view_precio2">12 unidades... S/12.00</string>
+    <string name="text_view_precio3">24 unidades... S/24.00</string>
+    <string name="text_view_cupcake">Cupcakes</string>
+    <string name="text_view_precio1.1">4 unidades.... S/20.00</string>
+    <string name="text_view_precio2.1">6 unidades.... S/30.00</string>
+    <string name="text_view_precio3.1">12 unidades... S/60.00</string>
+    <string name="text_view_pie_manzana">Pie de manzana</string>
+    <string name="text_view_precio_mediano">Mediano... S/35.00</string>
+    <string name="text_view_precio_grande">Grande..... S/45.00</string>
+    <string name="text_view_torta">Torta Especial</string>
+    <string name="text_view_torta_pequeña">Torta de 1/4Kg.. S/55.00</string>
+    <string name="text_view_torta_mediana">Torta de 1/2kg.. S/90.00</string>
+    <string name="text_view_torta_grande">Torta de 1kg..... S/130.00</string>
 </resources>
